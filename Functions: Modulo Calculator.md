@@ -11,7 +11,7 @@ To write a Python program that defines a function which accepts two values and r
 5. Call the `result` function with the user-provided values.
 
 ## 🧾 Program
-```
+```python
 def result(a, b):
     return a % b
 
